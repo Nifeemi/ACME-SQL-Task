@@ -1,5 +1,8 @@
 # Database Documentation
 
+OBJECTIVE: 
+To utilize SQL skills to perform data retrieval, manipulation, and analysis on a sample database
+
 ## Database Schema: acmesoftwarelab
 
 ### Table: smartphones
